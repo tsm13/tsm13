@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @tsm13, coding newbie and aspiring developer.
-- 👀 I’m interested in: reading, jogging, writing and gaming.
-- 🌱 I’m currently learning: HTML, CSS, JS, Java and C++
-- 💞️ I’m looking to collaborate on: anything I can do! Although my skills are intermediate at best (HTML/CSS, the rest is basic), so I can't do much at the current point. 😂
+🖥️ I’m TSM, web and games enthusiast. 🎮
 
-A proper introduction shall be made someday...
-<!---
-z8314/z8314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I'm a junior front-end developer aspiring to become a full-stack web developer. I have some months worth of experience with Angular on a private project done in my previous job, so I'm familiar with the basics, and know a little of RxJS. But currently I'm learning ReactJS, with some C# and Unity Engine on the side.
+
+🧠 My portfolio is currently lacking in recent activities while I build my React skills, but I do have some personal projects that I want to bring to life in the near future!
+
