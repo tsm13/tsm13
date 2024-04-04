@@ -7,7 +7,7 @@ I have some months worth of experience with Angular on a private project done in
 My github is currently lacking in recent activities while I move along in the courses I'm taking, but I do have some personal projects that I want to bring to life in the near future!
 
 ## 🧰 Toolbox
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,js,angular,rxjs,git,vite)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,js,react,redux,angular,rxjs,git,vite)](https://skillicons.dev) 
 
 ## 🧠 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,expressjs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,)](https://skillicons.dev)
