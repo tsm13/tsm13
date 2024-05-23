@@ -10,7 +10,7 @@ My github is currently lacking in recent activities while I move along in the co
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,js,typescript,react,redux,angular,rxjs,git,npm,vite,)](https://skillicons.dev) 
 
 ## 🧠 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nextjs)](https://skillicons.dev)
 
 <br>
 
