@@ -24,7 +24,7 @@ Meus repos estão majoritariamente em inglês, pois é nessa língua que faço m
 
 ## 🤝 Socials
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thais-martins-181a1212b/) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yunndere)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tsm13) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yunndere)
 
 I can be contacted in either of these _hooman_ languages:
 
