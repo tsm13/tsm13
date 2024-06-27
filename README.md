@@ -8,7 +8,7 @@ My current focus is on practicing and deepening my knowledge of React and its ec
 My github is currently lacking in recent activities while I move along in the courses I'm taking, but I do have some personal projects that I want to bring to life in the near future!
 
 ### 🇧🇷
-Entusiasta da web e de jogos, sou formanda em Letras, com minha segunda graduação em ADS. Atualmente sigo carreira na área de tecnologia com front-end, mas almejo me expandir para o back end e virar full-stack dev. 
+Entusiasta da web e de jogos, sou formanda em Letras, com minha segunda graduação em ADS. Atualmente seguindo carreira na área de tecnologia com front-end, mas almejo me expandir para o back end e virar full-stack dev. 
 
 Meu foco atual é em React e seu ecosistema, mas me considero agnostica de framework. Aprendo o que precisar, quando necessário. Possuo cerca de 7 meses de experiência com Angular, cujo foi meu primeiro framework de JavaScript utilizado no meu treinamento, e também conheço um pouco de RxJS. 
 
@@ -20,7 +20,7 @@ Meus repos estão majoritariamente em inglês, pois é nessa língua que faço m
 
 ## 🧠 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,expressjs)](https://skillicons.dev)
 
 ## 🤝 Socials
 
