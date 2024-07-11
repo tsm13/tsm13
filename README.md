@@ -16,11 +16,11 @@ Meus repos estão majoritariamente em inglês, pois é nessa língua que faço m
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,js,typescript,react,redux,angular,rxjs,git,npm,vite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,redux,nextjs,tailwind,styledcomponents,angular,rxjs,git,npm,vite)](https://skillicons.dev)
 
 ## 🧠 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)](https://skillicons.dev)
 
 ## 🤝 Socials
 
