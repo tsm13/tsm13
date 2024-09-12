@@ -16,7 +16,7 @@ Meus repos estão majoritariamente em inglês, pois é nessa língua que faço m
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,redux,nextjs,tailwind,styledcomponents,angular,rxjs,git,npm,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,redux,nextjs,tailwind,styledcomponents,git,npm,vite)](https://skillicons.dev)
 
 ## 🧠 Currently Learning
 
