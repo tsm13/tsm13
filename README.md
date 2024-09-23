@@ -22,10 +22,6 @@ Meus repos estão majoritariamente em inglês, pois é nessa língua que faço m
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb)](https://skillicons.dev)
 
-## 🤝 Socials
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tsm13) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yunndere)
-
 I can be contacted in either of these _hooman_ languages:
 
 - 🇧🇷 Brazilian Portuguese (Native)
